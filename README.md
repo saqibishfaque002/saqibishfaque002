@@ -96,9 +96,14 @@
 </p>
 
 ---
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibishfaque002&theme=dark&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&currStreakNum=FF4500&sideNums=1E90FF&sideLabels=FFFFFF&dates=FFFFFF" alt="saqibishfaque002" />
+</p>
+<div style="flex: 1; padding-right: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=saqibishfaque002&theme=dark&show_icons=true&locale=en" alt="saqibishfaque002" style="width: 50%; height: 90%;" />
+</div>
+<div style="flex: 1; padding-left: 10px;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibishfaque002&theme=dark&show_icons=true&locale=en&layout=compact" alt="saqibishfaque002" style="width: 40%; height: 90%" />
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibishfaque002&" alt="saqibishfaque002" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saqibishfaque002&show_icons=true&locale=en" alt="saqibishfaque002" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibishfaque002&show_icons=true&locale=en&layout=compact" alt="saqibishfaque002" /></p>
 
