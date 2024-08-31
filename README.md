@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/saqibishfaque002)
+<p align="center"><img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQG5dKQCohtrOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725104401156?e=1730332800&v=beta&t=HbJ66GiIPwV62GtnJBe5retwiqTjpL2SlW_X6IBTo9U" alt="saqibishfaque002" /></p>
+
+
 
 <h1 align="center">Hi 👋, I'm Saqib Ishfaque</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
@@ -97,6 +99,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibishfaque002&" alt="saqibishfaque002" /></p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=saqibishfaque002&show_icons=true&locale=en" alt="saqibishfaque002" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibishfaque002&show_icons=true&locale=en&layout=compact" alt="saqibishfaque002" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saqibishfaque002&show_icons=true&locale=en" alt="saqibishfaque002" /></p>
